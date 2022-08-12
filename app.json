@@ -1,0 +1,13 @@
+{
+    "name": "gra",
+    "description": "V2ray.",
+    "keywords": ["V2ray"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID",
+            "value": "3a7adcbf-b21f-4d7a-920a-68b4a806ac22"
+        }
+    },
+    "repository": "https://github.com/dvdesarw/dellandmydogs",
+    "stack": "container"
+}
